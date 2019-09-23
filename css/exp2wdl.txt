@@ -1,0 +1,76 @@
+<html>
+<head>
+	<title>SWISS WATCHES</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="aish.png">
+			</div>
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Our brands</a></li>
+				<li><a href="#">Investors</a></li>
+				<li><a href="#">Media</a></li>
+				<li><a href="#">Contact</a></li
+			</ul>
+		</div>
+		<div class="title">
+			<h1>Xylys</h1><br>
+			<h2>Swiss Made</h2>
+				
+		</div>
+</header>	
+		<div class="form">
+			<form action="">
+					<input class="location" type="text" placeholder="Enter location">
+		</div>
+	<div class="row">
+			<div class="columna">
+				<img src="w2.jpg">
+				<h3>Rs 7000</h3><br>
+				<h4>Ocean Blue</h4>
+			</div>
+			<div class="columna">
+				<img src="watch.jpg">
+				<h3>Rs 25000</h3><br>
+				<h4>Rolex</h4>
+			</div>
+			<div class="columna">
+				<img src="w7.jpg">
+				<h3>Rs 15000</h3><br>
+				<h4>black hue</h4>
+			</div>
+			<div class="columna">
+				<img src="w1.jpg">
+				<h3>Rs 20000</h3>
+				<h4>swarovski</h4> 
+			</div>
+	</div>
+	<div class="row">
+			<div class="columna">
+				<img src="w4.jpg">
+				<h3>Rs 10000</h3>
+				<h4>Quartz</h4>
+			</div>
+			<div class="columna">
+				<img src="w8.jpg">
+				<h3>Rs 7000</h3>
+				<h4>Xylys rose gold</h4>
+			</div>
+			<div class="columna">
+				<img src="w6.jpg">
+				<h3>Rs 8000</h3>
+				<h4>Xylys silver gold</h4>
+			</div>
+			<div class="columna">
+				<img src="w10.jpg">
+				<h3>Rs 6000</h3>
+				<h4>silver rose</h4>
+			</div>
+	</div>	
+</body>
+</html>
